@@ -49,6 +49,7 @@ table, th, td {
     color: white;
 }
 .middle-box {
+     float: middle;
+    font-size: 23px;
     color: white;
-    float: middle;
 }
