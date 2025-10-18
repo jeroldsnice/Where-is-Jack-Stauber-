@@ -48,3 +48,7 @@ table, th, td {
 .formtitle {
     color: white;
 }
+.middle-box {
+    color: white;
+    float: middle;
+}
