@@ -50,8 +50,10 @@ table, th, td {
 }
 .middle-box {
      margin: auto;
+     text-align: center;
     width: 50%;
     padding: 10px;
     font-size: 23px;
     color: white;
 }
+
